@@ -31,4 +31,4 @@ if st.button("Detect Language"):
  
 st.write("---------------------")
 
-Developed and Created by [Muhammad Ashhad Khan](https://github.com/Rukhsanaashhad/Language-Detector-App)
+st.write ("©️Developed and Created by [Muhammad Ashhad Khan](https://github.com/Rukhsanaashhad/Language-Detector-App)")
