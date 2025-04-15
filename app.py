@@ -1,8 +1,7 @@
 import streamlit as st  
-from langdetect import detect, DetectorFactory  
+from langdetect import detect 
 
-
-DetectorFactory.seed = 0  
+ 
 
  
 language_names = {  
