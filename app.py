@@ -29,6 +29,4 @@ if st.button("Detect Language"):
         st.warning("Please enter some text to detect the language.") 
      
  
-st.write("---------------------")
 
-st.write ("©️Developed and Created by [Muhammad Ashhad Khan](https://github.com/Rukhsanaashhad/Language-Detector-App)")
