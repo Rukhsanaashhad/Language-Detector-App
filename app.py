@@ -26,4 +26,7 @@ if st.button("Detect Language"):
         language_full_name = language_names.get(language_code, "Unknown language")  
         st.success(f"The detected language is: {language_code} ({language_full_name})")  
     else:  
-        st.warning("Please enter some text to detect the language.")  
+        st.warning("Please enter some text to detect the language.") 
+     st.write("---------------------")
+
+Developed and Created by [Muhammad Ashhad Khan](https://github.com/Rukhsanaashhad/Language-Detector-App)
