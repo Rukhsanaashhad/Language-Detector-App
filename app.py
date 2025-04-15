@@ -6,15 +6,15 @@ DetectorFactory.seed = 0
 
  
 language_names = {  
-    'en': 'English',  
-    'it': 'Italian',  
-    'es': 'Spanish',  
-    'fr': 'French',  
-    'de': 'German',  
-    'ar': 'Arabic',
+    'en 📖': 'English',  
+    'it 🍝': 'Italian',  
+    'es 🌮': 'Spanish',  
+    'fr 🥖': 'French',  
+    'de 🍺': 'German',  
+    'ar 🕌': 'Arabic',
 }  
-
-st.title("Language Detection App")  
+st.set_page_config(page_title="Language Detector", page_icon="🌐")
+st.title("Language Detection App🏷️ ")  
 st.write("Enter any text to detect the language:")  
 
   
